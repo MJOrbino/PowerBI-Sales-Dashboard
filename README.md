@@ -12,7 +12,7 @@ A Power BI dashboard designed to monitor sales performance and provide actionabl
 
 ## 📊 Dashboard Overview  
 <p align="center">  
-  <img src="images/Sales_Dashboard.png" alt="Sales Dashboard Screenshot" width="700"/>  
+  <img src="images/Sales_Dashboard.png" alt="Sales Dashboard Screenshot" width="1500"/>  
 </p>  
 
 **Key Features:**  
